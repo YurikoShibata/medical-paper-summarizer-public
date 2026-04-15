@@ -1,0 +1,432 @@
+{
+  "reported_pmids": {
+    "40516777": {
+      "title": "Heart failure hospitalization from recurrent atrial fibrillation is uncommon after catheter ablation in patients with heart failure with reduced ejection fraction.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "41644282": {
+      "title": "Atrial fibrillation and heart failure with preserved ejection fraction: diagnostic challenges and therapeutic opportunities.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "41766535": {
+      "title": "PAM-VT 2 Study: Long-Term Scar Evolution and Ablation Lesion Assessment by Late Gadolinium Enhancement Cardiac Magnetic Resonance After Ventricular Tachycardia Ablation.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "41779388": {
+      "title": "Spectrum of Primary Aldosteronism and Risk of Cardiovascular Outcomes: The Atherosclerosis Risk in Communities Study.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "41780565": {
+      "title": "Aficamten in symptomatic obstructive hypertrophic cardiomyopathy: the FOREST-HCM long-term study.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "40738375": {
+      "title": "Catheter ablation of atrial fibrillation in patients with heart failure: Insights from the NCDR atrial fibrillation ablation registry.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "40188999": {
+      "title": "Extrastimuli-assisted functional mapping improves ventricular tachycardia ablation outcomes: A systematic review, meta-analysis, and meta-regression.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "41314586": {
+      "title": "Left ventricular ejection fraction response after atrial fibrillation ablation: Clinical predictors and development of the PACED score.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "40569849": {
+      "title": "Immune checkpoint inhibitor-associated myocarditis: a novel risk score.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "40884033": {
+      "title": "Incidence and risk factors of immune checkpoint inhibitor myocardial and muscle toxicity: a French nationwide study.",
+      "reported_at": "2026-03-07T20:09:35.190943"
+    },
+    "40449818": {
+      "title": "Inflammation and risk of cardiovascular outcomes in patients with atrial fibrillation and flutter: A nationwide registry study.",
+      "reported_at": "2026-03-07T21:59:47.347070"
+    },
+    "41159879": {
+      "title": "Immediate or Deferred Nonculprit-Lesion PCI in Myocardial Infarction.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41800474": {
+      "title": "Differences in Disease Trajectory, Comorbidities, and Mortality in Sarcomeric and Nonsarcomeric Hypertrophic Cardiomyopathy.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41794418": {
+      "title": "Atrial fibrillation.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41674444": {
+      "title": "Prospective Associations of Obesity and Obesity Severity With 9 Cardiovascular Outcomes: The Cross-Cohort Collaboration.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41794089": {
+      "title": "Antiarrhythmic Drugs Versus Catheter Ablation for Treatment of Atrial Fibrillation in An Elderly Population: A Retrospective Analysis of Medicare Advantage Enrollees in the United States.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "40884070": {
+      "title": "Heart failure therapy in patients with advanced cancer receiving specialized palliative care (EMPATICC trial).",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41802848": {
+      "title": "Atrial fibrillation: genetic architecture and polygenic risk prediction.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41794437": {
+      "title": "Effect of baxdrostat on ambulatory blood pressure in patients with resistant hypertension (Bax24): a phase 3, randomised, double-blind, placebo-controlled trial.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41797698": {
+      "title": "TRIM28 Is an E3 Ligase of IRP2 Suppressing Ischemia/Reperfusion-Induced Myocardial Ferroptosis.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41797725": {
+      "title": "YAP Induces a Prorenewal Metabolic State in Cardiomyocytes.",
+      "reported_at": "2026-03-10T21:00:58.455560"
+    },
+    "41783932": {
+      "title": "Mechanisms Linking Sleep-Disordered Breathing and Cardiometabolic Disease Risk.",
+      "reported_at": "2026-03-11T13:28:20.104234"
+    },
+    "41361939": {
+      "title": "Effect of Automated Closed-Loop Ventilation vs Protocolized Conventional Ventilation on Ventilator-Free Days in Critically Ill Adults: A Randomized Clinical Trial.",
+      "reported_at": "2026-03-14T22:20:25.247509"
+    },
+    "41823503": {
+      "title": "Sex Disparities in the Clinical Management and Outcomes of Critically Ill Adults Undergoing Electroencephalography Monitoring.",
+      "reported_at": "2026-03-14T22:20:25.247509"
+    },
+    "41819339": {
+      "title": "Effect of prehospital respiratory interventions on pediatric drowning outcomes.",
+      "reported_at": "2026-03-14T22:20:25.247509"
+    },
+    "41805229": {
+      "title": "Days Alive and at Home After Critical Illness Hospitalization Among Older Adults and Its Association With Delivery of In-Hospital Rehabilitation.",
+      "reported_at": "2026-03-14T22:20:25.247509"
+    },
+    "41819340": {
+      "title": "Decline in Rescue Breathing and Its Impact on Outcomes in Pediatric Out-of-Hospital Cardiac Arrest Due to Drowning: A Nationwide Study, 2012-2023.",
+      "reported_at": "2026-03-14T22:20:25.247509"
+    },
+    "41819241": {
+      "title": "Predictive Value of Notched P Wave for Life-Threatening Arrhythmias in Patients with Brugada Syndrome: Insights from a Multicenter Prospective Study.",
+      "reported_at": "2026-03-15T22:22:00.808711"
+    },
+    "40633941": {
+      "title": "Stereotactic arrhythmia radioablation in patients with refractory ventricular tachycardia: a systematic review and meta-analysis.",
+      "reported_at": "2026-03-15T22:22:00.808711"
+    },
+    "41824801": {
+      "title": "Ca2+ Signaling in Cardiac Muscle: The Importance of Balances.",
+      "reported_at": "2026-03-15T22:22:00.808711"
+    },
+    "41811760": {
+      "title": "Pre-Procedural Time Spent in Atrial Fibrillation Using Intermittent ECG Monitoring Is Associated with Arrhythmia Recurrence After Ablation: The ISOLATION Cohort Study.",
+      "reported_at": "2026-03-15T22:22:00.808711"
+    },
+    "40930594": {
+      "title": "Off-label underdosing of edoxaban antithrombotic therapy for patients with atrial fibrillation and stable coronary artery disease: findings from the EPIC-CAD trial.",
+      "reported_at": "2026-03-15T22:22:00.808711"
+    },
+    "40629531": {
+      "title": "Transcatheter edge-to-edge repair vs medical therapy in atrial functional mitral regurgitation: a propensity score-based comparison from the OCEAN-Mitral and REVEAL-AFMR registries.",
+      "reported_at": "2026-03-16T22:27:42.910503"
+    },
+    "41823368": {
+      "title": "Heart failure patients with reduced or mildly reduced ejection fraction: baseline characteristics of the low-dose digoxin outcome DECISION trial.",
+      "reported_at": "2026-03-16T22:27:42.910503"
+    },
+    "41831311": {
+      "title": "Finerenone, Eplerenone, and Spironolactone in HFpEF: A Bayesian Network Meta-Analysis of Efficacy and Safety.",
+      "reported_at": "2026-03-16T22:27:42.910503"
+    },
+    "41825486": {
+      "title": "Left-sided heart failure determines outcomes in patients with severe tricuspid regurgitation undergoing percutaneous repair.",
+      "reported_at": "2026-03-16T22:27:42.910503"
+    },
+    "41831305": {
+      "title": "Effects of Sauna bathing on Exercise Capacity and Muscle Function in HFpEF.",
+      "reported_at": "2026-03-16T22:27:42.910503"
+    },
+    "41831847": {
+      "title": "Integrated community-based versus facility-based care for people with HIV, diabetes, and hypertension in sub-Saharan Africa (INTE-COMM): an open-label, multicountry, cluster-randomised trial.",
+      "reported_at": "2026-03-17T22:27:45.774312"
+    },
+    "41808633": {
+      "title": "Treatment of Primary Aldosteronism.",
+      "reported_at": "2026-03-17T22:27:45.774312"
+    },
+    "41841247": {
+      "title": "Hypertensive Disorders of Pregnancy and Primary Aldosteronism.",
+      "reported_at": "2026-03-17T22:27:45.774312"
+    },
+    "41834713": {
+      "title": "Enhanced Mitochondrial Mrs2-Mg<sup>2+</sup> Signaling Drives Mitochondrial Dysfunction in Pulmonary Arterial Hypertension Rats.",
+      "reported_at": "2026-03-17T22:27:45.774312"
+    },
+    "41834728": {
+      "title": "Human 3D Cardiac Microtissue Model to Investigate Aldosterone-Induced Fibrosis and Electrical Dysfunction.",
+      "reported_at": "2026-03-17T22:27:45.774312"
+    },
+    "41824590": {
+      "title": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+      "reported_at": "2026-03-18T22:28:09.700623"
+    },
+    "41824552": {
+      "title": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+      "reported_at": "2026-03-18T22:28:09.700623"
+    },
+    "41841775": {
+      "title": "Proprotein convertase subtilisin/kexin Type 9 inhibitors: past, present, and future.",
+      "reported_at": "2026-03-18T22:28:09.700623"
+    },
+    "41815087": {
+      "title": "Dynamic Behavior of Carotid Arteries Determined by Black-Blood Cine MR Imaging: Potential Plaque Vulnerability Indicators.",
+      "reported_at": "2026-03-18T22:28:09.700623"
+    },
+    "41685426": {
+      "title": "Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through Suppressing PAK1/ERK1/2 Signaling.",
+      "reported_at": "2026-03-18T22:28:09.700623"
+    },
+    "41842968": {
+      "title": "Data-Driven Phenotypic Clusters of Gestational Diabetes Mellitus and Associations With Risk of Perinatal Complications and Postpartum Diabetes.",
+      "reported_at": "2026-03-19T22:22:17.256817"
+    },
+    "41849763": {
+      "title": "Prognostic Factors for Long-Term Risk of Stroke After Transient Ischemic Attack or Minor Stroke: A Systematic Review and Meta-Analysis.",
+      "reported_at": "2026-03-19T22:22:17.256817"
+    },
+    "41850785": {
+      "title": "Life expectancy and determinants of relative survival following surgical aortic valve replacement for aortic stenosis.",
+      "reported_at": "2026-03-19T22:22:17.256817"
+    },
+    "41823981": {
+      "title": "Prevalence and influence of cardiovascular kidney metabolic syndrome on outcomes after transcatheter aortic valve implantation.",
+      "reported_at": "2026-03-19T22:22:17.256817"
+    },
+    "41847750": {
+      "title": "Clopidogrel Versus Aspirin Monotherapy Beyond 1 Year After PCI: The Final 5-Year Results of the STOPDAPT-2 ACS and STOPDAPT-2 Total Cohort.",
+      "reported_at": "2026-03-20T22:22:37.185038"
+    },
+    "41823519": {
+      "title": "Great debate: the new risk factor-weighted clinical likelihood model is useful to estimate the initial pre-test probability of obstructive coronary artery disease in individuals with suspected chronic coronary syndromes.",
+      "reported_at": "2026-03-20T22:22:37.185038"
+    },
+    "41837904": {
+      "title": "Use of Coronary Artery Calcium Scoring in Individuals With Elevated Lipoprotein(a): A Multicohort Study.",
+      "reported_at": "2026-03-20T22:22:37.185038"
+    },
+    "41848694": {
+      "title": "Premature Menopause and Lifetime Risk of Coronary Heart Disease.",
+      "reported_at": "2026-03-20T22:22:37.185038"
+    },
+    "41841256": {
+      "title": "Interleukin 11-Induced MicroRNAs as Functional Mediators and Circulating Biomarkers of Cardiac Fibrosis.",
+      "reported_at": "2026-03-20T22:22:37.185038"
+    },
+    "41860319": {
+      "title": "Ten Steps to Improve Sepsis Care in Low-Resource Settings.",
+      "reported_at": "2026-03-21T22:18:55.773898"
+    },
+    "41860322": {
+      "title": "Society of Critical Care Medicine Guidelines on Caring for Older Adults in the ICU.",
+      "reported_at": "2026-03-21T22:18:55.773898"
+    },
+    "41860289": {
+      "title": "Influence of Age in End-of-Life Practices in Worldwide ICUs (ETHICUS-2): A Prospective Observational Study.",
+      "reported_at": "2026-03-21T22:18:55.773898"
+    },
+    "41860329": {
+      "title": "The Frame of Survival for Sepsis: A Practical Systems Framework for Time-Sensitive Critical Illness in Low-Resource Settings.",
+      "reported_at": "2026-03-21T22:18:55.773898"
+    },
+    "41860326": {
+      "title": "Temperature Control After In-Hospital Cardiac Arrest: Outcomes From the Discover In-Hospital Cardiac Arrest Cohort.",
+      "reported_at": "2026-03-21T22:18:55.773898"
+    },
+    "41864305": {
+      "title": "Characterization of radiofrequency ablation lesions by high-density unipolar, bipolar and omnipolar voltage mapping.",
+      "reported_at": "2026-03-22T22:20:22.094356"
+    },
+    "41841686": {
+      "title": "Pulsed Field Ablation for Atrial Fibrillation in Patients with Heart Failure: Insight from the ATHENA registry.",
+      "reported_at": "2026-03-22T22:20:22.094356"
+    },
+    "41853846": {
+      "title": "Memantine for Premature Atrial Contractions: A Phase 2 Randomized Clinical Trial.",
+      "reported_at": "2026-03-22T22:20:22.094356"
+    },
+    "41864300": {
+      "title": "Differential Responses of J waves to Heart Rate Changes in Idiopathic Ventricular Fibrillation and General Population in Japan.",
+      "reported_at": "2026-03-22T22:20:22.094356"
+    },
+    "41864299": {
+      "title": "Safety of Catheter Ablation compared with Antiarrhythmic Drugs for Atrial Fibrillation: A Systematic Review and Meta-Analysis of Randomised Trials.",
+      "reported_at": "2026-03-22T22:20:22.094356"
+    },
+    "41864747": {
+      "title": "Angiography-derived fractional flow reserve versus coronary angiography to guide coronary artery bypass grafting in patients undergoing surgical valve procedures with concomitant coronary artery disease in China (FAVOR IV-QVAS): a multicentre, triple-blind, randomised trial.",
+      "reported_at": "2026-03-23T22:26:28.813153"
+    },
+    "41396086": {
+      "title": "Sacubitril-Valsartan vs Enalapril in Heart Failure Due to Chagas Disease: Primary Results of ANSWER-HF Randomized Trial.",
+      "reported_at": "2026-03-23T22:26:28.813153"
+    },
+    "41859834": {
+      "title": "Comparative diagnostic performance of machine learning models and traditional scores for HFpEF in older adults.",
+      "reported_at": "2026-03-23T22:26:28.813153"
+    },
+    "41841702": {
+      "title": "Long-term Safety and Performance of an Implantable IVC Sensor for Congestion-Guided Management in Heart Failure: 12-Month Results from the FUTURE-HF Trial Portfolio.",
+      "reported_at": "2026-03-23T22:26:28.813153"
+    },
+    "41841259": {
+      "title": "Simtuzumab Attenuates Loxl2-Mediated Extracellular Matrix Remodeling and Preserves Cardiac Function in <i>LMNA</i> Mutation-Induced Dilated Cardiomyopathy.",
+      "reported_at": "2026-03-23T22:26:28.813153"
+    },
+    "41712677": {
+      "title": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+      "reported_at": "2026-03-24T22:24:53.634717"
+    },
+    "41870448": {
+      "title": "Diagnosis and Management of Resistant Hypertension: A Review.",
+      "reported_at": "2026-03-24T22:24:53.634717"
+    },
+    "41871593": {
+      "title": "Primary sclerosing cholangitis.",
+      "reported_at": "2026-03-24T22:24:53.634717"
+    },
+    "41853854": {
+      "title": "Angiotensinogen Reconsidered: Evolving Perspectives in Hypertension Research.",
+      "reported_at": "2026-03-24T22:24:53.634717"
+    },
+    "41866289": {
+      "title": "Sodium, Potassium and Calories: Implications for Implementing a Recommended Diet in Adults with Hypertension.",
+      "reported_at": "2026-03-24T22:24:53.634717"
+    },
+    "41610880": {
+      "title": "Peri-operative myocardial infarction/injury after non-cardiac surgery: association between cardiologist evaluation and outcomes.",
+      "reported_at": "2026-03-25T22:30:11.106986"
+    },
+    "41879791": {
+      "title": "Oral Semaglutide and Change in Cardiovascular Risk Factors in High-Risk Type 2 Diabetes: A Post Hoc Secondary Analysis of the SOUL Randomized Clinical Trial.",
+      "reported_at": "2026-03-25T22:30:11.106986"
+    },
+    "41384362": {
+      "title": "Acute coronary syndrome with plaque erosion: clinical characteristics, mechanisms, and unmet needs.",
+      "reported_at": "2026-03-25T22:30:11.106986"
+    },
+    "41859781": {
+      "title": "ESCRT-Mediated Machinery Directly Drives Cardiac T-Tubule Formation.",
+      "reported_at": "2026-03-25T22:30:11.106986"
+    },
+    "41875060": {
+      "title": "Per- and Polyfluoroalkyl Substances During Pregnancy and Gestational Diabetes: The Environmental Influences on Child Health Outcomes (ECHO) Cohort.",
+      "reported_at": "2026-03-26T22:22:37.181570"
+    },
+    "41879137": {
+      "title": "Inflammatory pathways in atrial fibrillation: mechanisms and novel therapeutic targets.",
+      "reported_at": "2026-03-26T22:22:37.181570"
+    },
+    "41881651": {
+      "title": "Prognostic Value of Microvascular Resistance Reserve in Coronary Artery Disease: A Systematic Review and Meta-Analysis.",
+      "reported_at": "2026-03-27T22:27:02.349760"
+    },
+    "41493330": {
+      "title": "Complete revascularization timing in ST-segment elevation myocardial infarction and multivessel disease with heart failure: the OPTION-STEMI trial.",
+      "reported_at": "2026-03-27T22:27:02.349760"
+    },
+    "41664927": {
+      "title": "Spontaneous Myocardial Infarction After Left Main Revascularization: The EXCEL Trial.",
+      "reported_at": "2026-03-27T22:27:02.349760"
+    },
+    "41862204": {
+      "title": "Effect of a clinical decision support system on stroke care quality and outcomes in patients with acute ischaemic stroke (GOLDEN BRIDGE II): cluster randomised clinical trial.",
+      "reported_at": "2026-03-27T22:27:02.349760"
+    },
+    "41150941": {
+      "title": "Stratified treatment of myocardial infarction with non-obstructive coronary arteries: the PROMISE trial.",
+      "reported_at": "2026-03-27T22:27:02.349760"
+    },
+    "41874620": {
+      "title": "Clinical criteria for the definition of refractory septic shock: a joint Delphi consensus from the Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM).",
+      "reported_at": "2026-03-28T22:23:09.638420"
+    },
+    "41873857": {
+      "title": "Clinical Criteria for the Definition of Refractory Septic Shock: A Joint Delphi Consensus from the Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM).",
+      "reported_at": "2026-03-28T22:23:09.638420"
+    },
+    "41879382": {
+      "title": "Economic and Regional Disparities in Critical Care Ultrasound Training, Equipment Access, and Implementation Barriers in China: A Nationwide Cross-Sectional Survey.",
+      "reported_at": "2026-03-28T22:23:09.638420"
+    },
+    "41891786": {
+      "title": "Results of the Pediatric Guideline Adherence and Outcomes (PEGASUS) Program Versus Usual Care Pragmatic Randomized Controlled Trial in Severe Traumatic Brain Injury.",
+      "reported_at": "2026-03-28T22:23:09.638420"
+    },
+    "41885544": {
+      "title": "Factors Associated With R01 Submission Among Pediatric Critical Care Medicine Career Development Award Recipients.",
+      "reported_at": "2026-03-28T22:23:09.638420"
+    },
+    "41870183": {
+      "title": "Incidence and predictors of AF recurrence during long-term follow-up of patients after PF ablation for atrial fibrillation.",
+      "reported_at": "2026-03-29T22:25:08.059591"
+    },
+    "41881366": {
+      "title": "Impact of Pulsed-Field Ablation-Based Pulmonary Vein Isolation on Atrial Fibrillation Triggers Originating from the Superior Vena Cava.",
+      "reported_at": "2026-03-29T22:25:08.059591"
+    },
+    "40780827": {
+      "title": "Surgical ablation in non-mitral valve cardiac surgeries: a meta-analysis of early outcomes.",
+      "reported_at": "2026-03-29T22:25:08.059591"
+    },
+    "41881373": {
+      "title": "Antiarrhythmic drugs versus catheter ablation as rhythm control for atrial fibrillation: a systematic review and meta-analysis of randomized controlled trials.",
+      "reported_at": "2026-03-29T22:25:08.059591"
+    },
+    "41894228": {
+      "title": "Relationships between three-dimensional fibrosis distribution, atrial adiposity, and voltage abnormalities associated with persistent atrial fibrillation.",
+      "reported_at": "2026-03-29T22:25:08.059591"
+    },
+    "41885675": {
+      "title": "Gene Editing Therapy in Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+      "reported_at": "2026-03-30T22:29:58.501874"
+    },
+    "41910522": {
+      "title": "Excess and Dysfunctional Fat as a Primary Driver of Heart Failure With Preserved Ejection Fraction: From Institutional Recognition to Clinical Integration.",
+      "reported_at": "2026-03-30T22:29:58.501874"
+    },
+    "41910215": {
+      "title": "Pulsed field ablation for atrial fibrillation in patients with heart failure: insight from the ATHENA registrys.",
+      "reported_at": "2026-03-30T22:29:58.501874"
+    },
+    "41910427": {
+      "title": "Discontinuation of Beta-Blocker Therapy after Myocardial Infarction.",
+      "reported_at": "2026-03-30T22:29:58.501874"
+    },
+    "41878820": {
+      "title": "Mechanisms of GLP-1 Receptor Agonists in HFpEF: Exploring Weight-Dependent and Independent Drivers of Therapeutic Benefit.",
+      "reported_at": "2026-03-30T22:29:58.501874"
+    },
+    "41906910": {
+      "title": "Histopathology and Molecular Profiling of Primary Aldosteronism.",
+      "reported_at": "2026-03-31T22:30:35.715314"
+    },
+    "41884885": {
+      "title": "Artificial Intelligence in Cardiovascular Medicine: Focus on Hypertension.",
+      "reported_at": "2026-03-31T22:30:35.715314"
+    },
+    "41878817": {
+      "title": "Heritability and Cardiovascular Disease in Adult Offspring of Hypertensive Disorder of Pregnancy: A Systematic Review and Meta-Analysis.",
+      "reported_at": "2026-03-31T22:30:35.715314"
+    },
+    "41876712": {
+      "title": "Scientific advances in post-exercise hypotension: a bibliometric review.",
+      "reported_at": "2026-03-31T22:30:35.715314"
+    },
+    "41906877": {
+      "title": "Dietary Sodium-Regulated Plasma SVEP1 and Inverse Salt Sensitivity.",
+      "reported_at": "2026-03-31T22:30:35.715314"
+    }
+  }
+}
