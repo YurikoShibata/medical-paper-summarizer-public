@@ -9,6 +9,16 @@ on:
           例: 循環器内科 / 消化器内科 / 神経内科 / 腫瘍内科 / 呼吸器内科
         required: true
         type: string
+      include_basic_science:
+        description: |
+          基礎研究論文（動物実験・細胞実験など）も含めますか？
+          ※ 臨床家の方は「いいえ」推奨、基礎研究者の方は「はい」を選択してください
+        required: true
+        type: choice
+        default: 'いいえ（臨床研究のみ）'
+        options:
+          - 'いいえ（臨床研究のみ）'
+          - 'はい（基礎研究も含める）'
 
 jobs:
   generate-config:
@@ -32,6 +42,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SPECIALTY: ${{ inputs.specialty }}
+          INCLUDE_BASIC_SCIENCE: ${{ inputs.include_basic_science }}
         run: python setup.py
 
       - name: Commit generated config.yaml

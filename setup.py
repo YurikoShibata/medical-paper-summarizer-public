@@ -60,6 +60,16 @@ PROMPT_TEMPLATE = """
       "specialties": ["日曜のサブテーマキーワード（英語）"],
       "journals": ["関連専門誌名"]
     }}
+  }},
+  "clinical_relevance": {{
+    "high_value": [
+      "この専門領域で特に重要な臨床アウトカムキーワード（英語）を8〜10個",
+      "例: 循環器なら cardiovascular death / myocardial infarction、消化器なら gastrointestinal bleeding / hepatic decompensation など"
+    ],
+    "practical": [
+      "実臨床への応用性を示す専門領域特有のキーワード（英語）を5〜8個",
+      "例: standard of care / treatment algorithm / clinical decision-making など"
+    ]
   }}
 }}
 
@@ -67,6 +77,7 @@ PROMPT_TEMPLATE = """
 - ジャーナル名は必ずPubMedに登録されている正式略称で記載すること
 - キーワードはPubMedのMeSH用語や検索で実際に使われる英語表現にすること
 - 曜日ごとに専門領域のサブテーマを分散させること（例: 心不全→不整脈→虚血性心疾患...）
+- clinical_relevance は「例:」部分を含めず、実際のキーワードのみリストに入れること
 - JSONのみ出力し、前置き・説明・マークダウンコードブロックは不要
 """
 
@@ -180,12 +191,26 @@ def generate_specialty_config(specialty: str, api_key: str) -> dict:
     return generated
 
 
-def build_config(specialty: str, generated: dict) -> dict:
+def build_config(specialty: str, generated: dict, include_basic_science: bool) -> dict:
     """ベース設定と生成設定をマージしてconfig全体を組み立てる"""
-    config = BASE_CONFIG.copy()
+    import copy
+    config = copy.deepcopy(BASE_CONFIG)
     config["specialties"] = generated.get("specialties", {})
     config["journals"] = generated.get("journals", {})
     config["daily_themes"] = generated.get("daily_themes", {})
+
+    # 臨床関連性キーワードを専門領域に合わせて上書き
+    gen_cr = generated.get("clinical_relevance", {})
+    if gen_cr.get("high_value"):
+        config["clinical_relevance"]["high_value"] = gen_cr["high_value"]
+    if gen_cr.get("practical"):
+        config["clinical_relevance"]["practical"] = gen_cr["practical"]
+    # japan_relevantは汎用なのでそのまま維持
+
+    # 基礎研究を含める場合は除外リストを空にする
+    if include_basic_science:
+        config["basic_science_exclude"] = []
+
     return config
 
 
@@ -201,9 +226,11 @@ def main():
         print("エラー: GEMINI_API_KEY が設定されていません。")
         sys.exit(1)
 
+    include_basic_science = os.environ.get("INCLUDE_BASIC_SCIENCE", "").startswith("はい")
+
     try:
         generated = generate_specialty_config(specialty, api_key)
-        config = build_config(specialty, generated)
+        config = build_config(specialty, generated, include_basic_science)
 
         with open("config.yaml", "w", encoding="utf-8") as f:
             yaml.dump(config, f, allow_unicode=True,
@@ -214,6 +241,7 @@ def main():
         print("=" * 50)
         print(f"主要キーワード: {', '.join(config['specialties'].get('primary', []))}")
         print(f"Tier1ジャーナル: {', '.join(config['journals'].get('tier1', []))}")
+        print(f"基礎研究を含める: {'はい' if include_basic_science else 'いいえ'}")
         print("=" * 50)
         print("次のステップ: GitHub Actionsの「Daily Paper Summary」が")
         print("毎朝自動で論文を収集・要約してメールに届けます。")
