@@ -19,6 +19,7 @@ PROMPT_TEMPLATE = """
 以下の専門領域に特化した config.yaml の設定値を生成してください。
 
 専門領域: {specialty}
+曜日テーマの希望: {daily_theme_preferences}
 
 以下のJSON形式で出力してください。前置きや説明は不要です。JSONのみ出力してください。
 
@@ -78,6 +79,7 @@ PROMPT_TEMPLATE = """
 - ジャーナル名は必ずPubMedに登録されている正式略称で記載すること
 - キーワードはPubMedのMeSH用語や検索で実際に使われる英語表現にすること
 - 曜日ごとに専門領域のサブテーマを分散させること（例: 心不全→不整脈→虚血性心疾患...）
+- 「曜日テーマの希望」が入力されている場合は、その希望を優先して曜日テーマを設定すること。希望が空の場合はAIが自動で決める
 - clinical_relevance は「例:」部分を含めず、実際のキーワードのみリストに入れること
 - JSONのみ出力し、前置き・説明・マークダウンコードブロックは不要
 """
@@ -176,7 +178,9 @@ def generate_specialty_config(specialty: str, api_key: str) -> dict:
 
     client = genai.Client(api_key=api_key)
 
-    prompt = PROMPT_TEMPLATE.format(specialty=specialty)
+    daily_theme_preferences = os.environ.get("DAILY_THEME_PREFERENCES", "").strip()
+    pref_text = daily_theme_preferences if daily_theme_preferences else "（希望なし。AIが自動で決める）"
+    prompt = PROMPT_TEMPLATE.format(specialty=specialty, daily_theme_preferences=pref_text)
     response = client.models.generate_content(
         model="gemini-2.5-flash",
         contents=prompt,
