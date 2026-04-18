@@ -134,8 +134,6 @@ class PubMedSearcher:
                 db="pubmed",
                 term=query,
                 retmax=max_results,
-                sort="relevance",
-                usehistory="y",
                 datetype="pdat",
                 mindate=min_date_str,
                 maxdate=max_date_str
