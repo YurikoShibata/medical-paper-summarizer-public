@@ -48,31 +48,31 @@ PROMPT_TEMPLATE = """
   }},
   "daily_themes": {{
     "Monday": {{
-      "specialties": ["月曜のサブテーマ（論文Title/Abstractに出現する具体的フレーズ、小文字）を1〜3個"],
+      "specialties": ["月曜のサブテーマ（論文Title/Abstractに出現する具体的フレーズ、小文字）を3〜5個。同義語・表記揺れも含めて網羅的に"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Tuesday": {{
-      "specialties": ["火曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["火曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Wednesday": {{
-      "specialties": ["水曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["水曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Thursday": {{
-      "specialties": ["木曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["木曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Friday": {{
-      "specialties": ["金曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["金曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Saturday": {{
-      "specialties": ["土曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["土曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }},
     "Sunday": {{
-      "specialties": ["日曜のサブテーマ（同上）を1〜3個"],
+      "specialties": ["日曜のサブテーマ（同上）を3〜5個"],
       "journals": ["関連専門誌名を2〜3個"]
     }}
   }},
@@ -94,7 +94,9 @@ PROMPT_TEMPLATE = """
 - MeSHの見出し語形式（大文字始まりのカテゴリ名）は絶対に使わないこと
 - 複数形カテゴリ名（"diseases", "disorders"）ではなく、具体的な疾患名を使うこと
 - 曜日ごとに専門領域のサブテーマを分散させること（例: heart failure→atrial fibrillation→coronary artery disease...）
-- 曜日テーマのspecialtiesは1〜3個に絞ること（多すぎるとAND検索で結果が0件になる）
+- 曜日テーマのspecialtiesは3〜5個指定すること。specialties同士はOR検索なので、同義語・表記揺れ・関連語を多く含めるほどヒット数が増える
+  例: 土曜日「予防」なら→ "cardiovascular prevention", "primary prevention", "secondary prevention", "cardiovascular risk", "lifestyle intervention" のように5個
+  NG例: "lipid management" のような論文に出にくい抽象的フレーズは使わないこと
 - 「曜日テーマの希望」が入力されている場合は、その希望を優先して曜日テーマを設定すること。希望が空の場合はAIが自動で決める
 - clinical_relevance は「例:」部分を含めず、実際のキーワードのみリストに入れること
 - JSONのみ出力し、前置き・説明・マークダウンコードブロックは不要
