@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42021204": {
-      "title": "Obinutuzumab alone may be an effective option for adult minimal change disease: a single-center retrospective observational study.",
-      "reported_at": "2026-04-29T06:43:02.982571"
-    },
-    "42034201": {
-      "title": "Intragraft clonal expansion of cytotoxic CD8<sup>+</sup> and CD4<sup>+</sup> T cells in antibody-mediated kidney transplant rejection.",
-      "reported_at": "2026-04-30T07:20:11.983416"
-    },
-    "42028918": {
-      "title": "Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock.",
-      "reported_at": "2026-04-30T07:20:11.983416"
-    },
     "41870448": {
       "title": "Diagnosis and Management of Resistant Hypertension: A Review.",
       "reported_at": "2026-05-02T05:58:37.199046"
@@ -643,6 +631,26 @@
     "42878696": {
       "title": "Anti-CD38 monoclonal antibodies in kidney disease: mechanistic rationale and emerging clinical evidence.",
       "reported_at": "2026-10-21T00:15:41.373197"
+    },
+    "42909451": {
+      "title": "Long-term efficacy and safety for the complement factor B inhibitor iptacopan in IgA nephropathy.",
+      "reported_at": "2026-10-28T00:52:05.638728"
+    },
+    "42931903": {
+      "title": "Traditional Chinese medicine in CKD: myths, facts, and evidence.",
+      "reported_at": "2026-10-28T00:52:05.638728"
+    },
+    "42918416": {
+      "title": "Characterization of IgA, IgA immune complexes and complement depositions in IgA nephropathy using laser microdissection and mass spectrometry.",
+      "reported_at": "2026-10-28T00:52:05.638728"
+    },
+    "42912700": {
+      "title": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
+      "reported_at": "2026-10-28T00:52:05.638728"
+    },
+    "42911185": {
+      "title": "Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.",
+      "reported_at": "2026-10-28T00:52:05.638728"
     }
   }
 }
