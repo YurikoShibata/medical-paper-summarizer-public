@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41765180": {
-      "title": "Deep endotyping of kidney damage in type 2 diabetes: ex uno, plures.",
-      "reported_at": "2026-05-04T08:07:00.747505"
-    },
-    "41563806": {
-      "title": "Phosphofurin Acidic Cluster Sorting Protein 2 Alleviates Kidney Fibrosis by Inhibiting Tubular Epithelial Cell G2/M Arrest through Cyclin-Dependent Kinase-Like 1.",
-      "reported_at": "2026-05-04T08:07:00.747505"
-    },
-    "41563238": {
-      "title": "Integrin α 1 β 1 Promotes Interstitial Fibrosis and Cyst Growth in a Mouse Model of Polycystic Kidney Disease.",
-      "reported_at": "2026-05-04T08:07:00.747505"
-    },
-    "41830415": {
-      "title": "Assessing interstitial fibrosis and tubular atrophy in kidney biopsies - artificial intelligence versus humans.",
-      "reported_at": "2026-05-04T08:07:00.747505"
-    },
-    "41954905": {
-      "title": "GPR183 contributes to renal macrophage infiltration and fibrosis in kidney injury.",
-      "reported_at": "2026-05-04T08:07:00.747505"
-    },
     "41697161": {
       "title": "Renal Recovery Benefit of Living Versus Deceased Donor Liver Transplantation in Recipients With High Model for End-stage Liver Disease Scores: A Propensity Score-matched Study.",
       "reported_at": "2026-05-07T08:02:15.603289"
@@ -639,6 +619,10 @@
     "41894225": {
       "title": "Sexual dimorphism and age effects in CKD and type 2 diabetes in the CONFIDENCE trial.",
       "reported_at": "2026-10-31T01:17:11.563103"
+    },
+    "42949772": {
+      "title": "Proteinuria, eGFR Decline, and the Pathway to Kidney Failure in Alport Syndrome.",
+      "reported_at": "2026-11-01T00:34:38.293250"
     }
   }
 }
