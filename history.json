@@ -1,9 +1,5 @@
 {
   "reported_pmids": {
-    "41697161": {
-      "title": "Renal Recovery Benefit of Living Versus Deceased Donor Liver Transplantation in Recipients With High Model for End-stage Liver Disease Scores: A Propensity Score-matched Study.",
-      "reported_at": "2026-05-07T08:02:15.603289"
-    },
     "42071197": {
       "title": "Hydroxychloroquine-induced renal phospholipidosis manifesting as proximal tubulopathy in systemic lupus erythematosus.",
       "reported_at": "2026-05-10T07:17:49.221547"
@@ -623,6 +619,14 @@
     "42949772": {
       "title": "Proteinuria, eGFR Decline, and the Pathway to Kidney Failure in Alport Syndrome.",
       "reported_at": "2026-11-01T00:34:38.293250"
+    },
+    "41871364": {
+      "title": "Efficacy and safety of belimumab in IgA nephropathy: real-world evidence.",
+      "reported_at": "2026-11-04T01:46:29.928383"
+    },
+    "42955029": {
+      "title": "The Crossroads Between the Kidney and Gastrointestinal Disorders: Core Curriculum 2026.",
+      "reported_at": "2026-11-04T01:46:29.928383"
     }
   }
 }
