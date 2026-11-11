@@ -1,21 +1,5 @@
 {
   "reported_pmids": {
-    "42095796": {
-      "title": "KDOQI US Commentary on the KDIGO 2025 Clinical Practice Guideline for the Management of Immunoglobulin A Nephropathy (IgAN) and Immunoglobulin A Vasculitis (IgAV).",
-      "reported_at": "2026-05-13T08:22:01.217980"
-    },
-    "42092823": {
-      "title": "X-Linked immune dysregulation, polyendocrinopathy, and enteropathy (IPEX) syndrome with concurrent membranous and IgA nephropathy: a case report.",
-      "reported_at": "2026-05-13T08:22:01.217980"
-    },
-    "42121061": {
-      "title": "Hematological parameter dynamics in critically ill patients treated with oXiris<sup>®</sup>-based CRRT and CytoSorb<sup>®</sup> hemoadsorption: a prospective single-center study.",
-      "reported_at": "2026-05-14T08:09:01.182941"
-    },
-    "42106627": {
-      "title": "National dialysis registry of the Dominican Republic: first nationwide epidemiological analysis of renal replacement therapy.",
-      "reported_at": "2026-05-14T08:09:01.182941"
-    },
     "42138634": {
       "title": "Albuminuria drives hyperlipidemia in patients with Alport syndrome.",
       "reported_at": "2026-05-17T07:43:26.616034"
@@ -631,6 +615,18 @@
     "42988165": {
       "title": "Systematic overestimation using in silico-driven curation in a population database caused reevaluation of the genetic prevalence of Alport Syndrome.",
       "reported_at": "2026-11-08T00:58:58.447676"
+    },
+    "42912669": {
+      "title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
+      "reported_at": "2026-11-11T01:37:47.234952"
+    },
+    "43002652": {
+      "title": "Pathogenic Gd-IgA1: Redefining the Role of Galactose-Deficient IgA1 in IgA Nephropathy.",
+      "reported_at": "2026-11-11T01:37:47.234952"
+    },
+    "42998785": {
+      "title": "Rituximab in IgA Nephropathy: The RITA Multicenter Randomized Trial.",
+      "reported_at": "2026-11-11T01:37:47.234952"
     }
   }
 }
