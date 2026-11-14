@@ -1,9 +1,5 @@
 {
   "reported_pmids": {
-    "42138634": {
-      "title": "Albuminuria drives hyperlipidemia in patients with Alport syndrome.",
-      "reported_at": "2026-05-17T07:43:26.616034"
-    },
     "42127391": {
       "title": "Telitacicept for IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
       "reported_at": "2026-05-20T10:31:14.427353"
@@ -627,6 +623,14 @@
     "42998785": {
       "title": "Rituximab in IgA Nephropathy: The RITA Multicenter Randomized Trial.",
       "reported_at": "2026-11-11T01:37:47.234952"
+    },
+    "43003903": {
+      "title": "An ulcerative colitis taxonomy defined by individual patient-reported response trajectories.",
+      "reported_at": "2026-11-14T01:55:25.118949"
+    },
+    "43020183": {
+      "title": "Pooled cohort analysis of renin-angiotensin system inhibition and the risk of kidney outcomes in APOL1-mediated chronic kidney disease in the CRIC and SPRINT studies.",
+      "reported_at": "2026-11-14T01:55:25.118949"
     }
   }
 }
