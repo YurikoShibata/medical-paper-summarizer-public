@@ -1,21 +1,5 @@
 {
   "reported_pmids": {
-    "42127391": {
-      "title": "Telitacicept for IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
-      "reported_at": "2026-05-20T10:31:14.427353"
-    },
-    "42148809": {
-      "title": "Kidney biopsy during pregnancy: indications, complications, results and therapeutic impact.",
-      "reported_at": "2026-05-20T10:31:14.427353"
-    },
-    "42138996": {
-      "title": "Association of Complement Genetics with Outcomes in IgA Nephropathy.",
-      "reported_at": "2026-05-20T10:31:14.427353"
-    },
-    "42133430": {
-      "title": "Clinical Relevance of Donor-Derived cfDNA In Monitoring Kidney Transplant Rejection.",
-      "reported_at": "2026-05-21T10:53:14.544718"
-    },
     "42159298": {
       "title": "DUAL GIP/GLP-1Ra reduces residual proteinuria in non-diabetic fabry disease.",
       "reported_at": "2026-05-23T07:40:11.540225"
@@ -635,6 +619,10 @@
     "43014444": {
       "title": "Metabolic Unloading: How SGLT2i Recalibrate Cell Energetics to Slow CKD Progression.",
       "reported_at": "2026-11-16T01:29:37.900635"
+    },
+    "43032995": {
+      "title": "Urinary peptidomic classifier for the non-invasive diagnosis of Alport syndrome.",
+      "reported_at": "2026-11-18T03:14:51.904596"
     }
   }
 }
