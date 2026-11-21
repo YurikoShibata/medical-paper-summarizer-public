@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42159298": {
-      "title": "DUAL GIP/GLP-1Ra reduces residual proteinuria in non-diabetic fabry disease.",
-      "reported_at": "2026-05-23T07:40:11.540225"
-    },
-    "42172079": {
-      "title": "Autosomal Dominant Alport syndrome.",
-      "reported_at": "2026-05-24T08:02:50.484695"
-    },
     "42168895": {
       "title": "Albumin/creatinine ratio thresholds associated with poor sleep quality in elderly obese non-diabetic individuals: a cross-sectional study.",
       "reported_at": "2026-05-25T22:53:11.672182"
@@ -627,6 +619,10 @@
     "43044904": {
       "title": "Continuous Kidney Replacement Therapy in Patients Requiring Mechanical Circulatory Support: A Practical Review.",
       "reported_at": "2026-11-19T02:53:43.949957"
+    },
+    "43034991": {
+      "title": "Finerenone in Patients with Focal Segmental Glomerulosclerosis.",
+      "reported_at": "2026-11-21T02:56:18.893917"
     }
   }
 }
