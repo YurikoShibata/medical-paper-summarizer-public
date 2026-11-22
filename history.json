@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42168895": {
-      "title": "Albumin/creatinine ratio thresholds associated with poor sleep quality in elderly obese non-diabetic individuals: a cross-sectional study.",
-      "reported_at": "2026-05-25T22:53:11.672182"
-    },
-    "42148807": {
-      "title": "Unmasking erythroid suppression: the hidden culprit in renal anemia pathogenesis.",
-      "reported_at": "2026-05-25T22:53:11.672182"
-    },
     "42167600": {
       "title": "Anti-glomerular basement membrane disease: variant forms and underlying mechanisms.",
       "reported_at": "2026-05-27T23:11:28.585062"
@@ -623,6 +615,10 @@
     "43034991": {
       "title": "Finerenone in Patients with Focal Segmental Glomerulosclerosis.",
       "reported_at": "2026-11-21T02:56:18.893917"
+    },
+    "43044878": {
+      "title": "Hundred years Alport syndrome: a narrative journey through time from discovery to treatment.",
+      "reported_at": "2026-11-22T01:49:43.004574"
     }
   }
 }
