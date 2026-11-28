@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42186799": {
-      "title": "Severe Acute Hypertension Causes Hemolysis With Release of PEP and ACE Inhibitor.",
-      "reported_at": "2026-05-30T22:51:18.526634"
-    },
-    "41143746": {
-      "title": "Autosomal dominant tubulointerstitial kidney disease in Chinese patients.",
-      "reported_at": "2026-05-31T22:52:26.659883"
-    },
     "42189599": {
       "title": "Predicting Risk of Cardiovascular Disease EVENTs (PREVENT) Equation for Adverse Cardio-Kidney Outcomes in Chronic Kidney Disease Population.",
       "reported_at": "2026-06-01T23:23:06.881882"
@@ -607,6 +599,10 @@
     "43068807": {
       "title": "Association of Chronic and Recurrent Tonsillitis With Risk of IgA Nephropathy: A Korean Population-Based Cohort Study.",
       "reported_at": "2026-11-25T04:42:55.928003"
+    },
+    "42213417": {
+      "title": "Sex, menopause, and chronic kidney disease in primary care.",
+      "reported_at": "2026-11-28T03:39:18.335724"
     }
   }
 }
